@@ -3,7 +3,7 @@
 #include <wchar.h>
 
 /* Initializes the Haskell runtime. Every call to this function should
-   be matched with exactly one call to `pandoc_end`.  */
+   be matched with exactly one call to `pandoc_exit`.  */
 extern void pandoc_init();
 
 /* Shuts down the Haskell runtime.  */
