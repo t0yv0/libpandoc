@@ -1,3 +1,9 @@
+# Moved
+
+The project is now maintained at https://github.com/ShabbyX/libpandoc
+
+All copyright for code in this repository is transferred the current libpandoc maintainer @ShabbyX --@t0yv0.
+ 
 # `libpandoc`
 
 The purpose of `libpandoc` is to make the [Haskell][haskell] library
